@@ -1,0 +1,81 @@
+.boundry{
+   
+    top: 0;
+    left: 0;
+    text-align: center;
+    border-style: solid;
+    border-width:1px;
+    border-radius:10px;
+    height:600px;
+}.row{
+    
+    height:60px;
+    width:inherit;
+}
+.dubba{
+    
+    border-style: solid;
+    border-width:1px;
+    border-radius:10px;
+    height:60px;
+    width:109px;
+}
+.start{
+    margin-top:80px;
+    width: 80px;
+    height: 40px;
+}
+.rolldice{
+     margin-top:20px;
+     width: 80px;
+    height: 40px;
+}
+.star-0,.star-1
+{
+  margin-right:10px;
+  margin-top: 10px;
+}p{
+    margin-right:20px;
+}.dice{
+    margin-top:20px;
+    border-style:solid;
+    border-width:2px;
+    border-radius:10px;
+    width:80px;
+    margin-left:50px;
+}
+.snake-2{
+    position:absolute;
+    top: 10px;
+    left:145px;
+}
+.snake-3{
+    position:absolute;
+    top: 120px;
+    right:450px;
+}
+.snake-4{
+    position:absolute;
+    top: 250px;
+    right:300px;
+}
+.ladder-1{
+    position:absolute;
+    top: 50px;
+    left:0px;
+}
+.ladder-2{
+    position:absolute;
+    top: 20px;
+    right:400px;
+}
+.ladder-3{
+    position:absolute;
+    top: 60px;
+    left:370px;
+}
+.ladder-4{
+    position:absolute;
+    top: 250px;
+    left:450px;
+}
